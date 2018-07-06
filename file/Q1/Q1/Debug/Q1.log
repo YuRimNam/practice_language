@@ -1,0 +1,10 @@
+﻿  Q1.cpp
+c:\users\dsm2018\desktop\과제\프밍\코딩\파일\q1\q1\q1.cpp(11): warning C4129: 'i': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\dsm2018\desktop\과제\프밍\코딩\파일\q1\q1\q1.cpp(12): warning C4129: 'o': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\dsm2018\desktop\과제\프밍\코딩\파일\q1\q1\q1.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\dsm2018\desktop\과제\프밍\코딩\파일\q1\q1\q1.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\dsm2018\desktop\과제\프밍\코딩\파일\q1\q1\q1.cpp(15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+  Q1.vcxproj -> C:\Users\DSM2018\Desktop\과제\프밍\코딩\파일\Q1\Debug\Q1.exe

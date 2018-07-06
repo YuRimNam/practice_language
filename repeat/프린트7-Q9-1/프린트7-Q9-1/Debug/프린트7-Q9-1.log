@@ -1,0 +1,4 @@
+﻿  프린트7-Q9-1.cpp
+c:\users\dsm2018\desktop\과제\프밍\코딩\반복문\프린트7-q9-1\프린트7-q9-1\프린트7-q9-1.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  프린트7-Q9-1.vcxproj -> C:\Users\DSM2018\Desktop\과제\프밍\코딩\반복문\프린트7-Q9-1\Debug\프린트7-Q9-1.exe
