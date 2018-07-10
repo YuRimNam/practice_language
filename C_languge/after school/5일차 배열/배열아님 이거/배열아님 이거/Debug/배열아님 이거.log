@@ -1,0 +1,4 @@
+﻿  배열아님 이거.cpp
+c:\users\dsm2018\desktop\방과후\5일차 배열\배열아님 이거\배열아님 이거\배열아님 이거.cpp(11): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+c:\users\dsm2018\desktop\방과후\5일차 배열\배열아님 이거\배열아님 이거\배열아님 이거.cpp(12): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+  배열아님 이거.vcxproj -> C:\Users\DSM2018\Desktop\방과후\5일차 배열\배열아님 이거\Debug\배열아님 이거.exe
