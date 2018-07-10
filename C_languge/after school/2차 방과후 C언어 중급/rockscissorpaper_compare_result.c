@@ -12,7 +12,9 @@ int main()
 		printf("put the result: ");
 		scanf("%d %d", &me, &com);
 	
-		if (me==0&&com==2)
+		if (me>3||me<0||com>3||com<0)
+			printf("you are worng!\n");
+		else if (me==0&&com==2)
 			printf("you are lose!");
 		else if (me<com||me==2&&com==0)
 			printf("you are win!\n");
@@ -20,8 +22,6 @@ int main()
 			printf("you are lose!\n");
 		else if (me==com)
 			printf("same!\n");
-		else
-			printf("worng put\n");
 			
 		Sleep(2000);
 		system("cls");
